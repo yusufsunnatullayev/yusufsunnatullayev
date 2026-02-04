@@ -1,28 +1,92 @@
-# Hi there! 👋 I'm Yusuf Sunnatullayev  
+# 👋 Hi, I'm Yusuf
 
-I'm a **Frontend Developer** specializing in building user-friendly and responsive web applications with **React.js**. Passionate about clean code, elegant design, and delivering seamless user experiences.  
-
----
-
-## 🚀 Skills & Technologies  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Next.js  
-- **TypeScript:** Building scalable and maintainable projects  
-- **UI/UX Tools:** Crafting modern interfaces with intuitive design principles  
+🚀 **Frontend Developer | Angular & React Specialist**  
+I build scalable, high-performance web applications with clean architecture, great UX, and maintainable code.
 
 ---
 
+## 🧑‍💻 About Me
 
-## 💼 Projects  
-Here are some of my featured projects:  
-- **Todo App**: A brief description (React, Tailwind, Mock Api)  
-- **Chat App**: A brief description (React, Tailwind, Firebase)  
-
-Check out my [repositories](https://github.com/yusufsunnatullayev?tab=repositories) for more cool stuff!  
+- 💼 Frontend Developer with experience in **Angular** and **React**
+- ⚡ Strong focus on **performance**, **reusability**, and **clean code**
+- 🧠 Enjoy solving complex UI problems and designing component systems
+- 🔁 Experienced with modern frontend tooling and state management
+- 🌍 Open to remote and on-site opportunities
 
 ---
 
-## 📫 Let's Connect!  
-- **LinkedIn:** https://www.linkedin.com/in/yusuf-sunnatullayev-ba26b5328/  
-- **Email:** yusuffdeveloper@gmail.com
+## 🛠 Tech Stack
 
-Thanks for stopping by! 😊  
+### Frontend
+- **Angular** (Signals, RxJS, Standalone Components)
+- **React** (Hooks, Context API, Redux / Zustand)
+- **TypeScript**, JavaScript (ES6+)
+- **HTML5**, **CSS3**, **SCSS**
+- **Tailwind CSS**, Angular Material
+
+### State & Data
+- RxJS
+- NgRx
+- React Query
+- REST APIs
+
+### Tools & Workflow
+- Git, GitHub, GitLab
+- Vite, Webpack
+- ESLint, Prettier
+- Figma (working with designs)
+- CI/CD basics
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Enterprise Dashboard (Angular)
+- Modular architecture using **Standalone Components**
+- Reactive data flow with **RxJS**
+- Custom UI kit & reusable components
+- Optimized table rendering and filters
+
+**Tech:** Angular, TypeScript, RxJS, Tailwind  
+🔗 _Private / Company Project_
+
+---
+
+### 🔹 Admin Panel (React)
+- Role-based access control
+- API-driven UI with loading & error states
+- Reusable form and table components
+
+**Tech:** React, TypeScript, React Query  
+🔗 _Private / Company Project_
+
+---
+
+### 🔹 UI Component Library
+- Custom buttons, tables, modals, date pickers
+- Designed for scalability and consistency
+
+**Tech:** Angular / React, SCSS, Tailwind  
+🔗 _In progress_
+
+---
+
+## 📈 What I Care About
+
+- Clean and readable code
+- Strong typing with TypeScript
+- Reusable and scalable components
+- Good UX and accessibility
+- Performance optimization
+
+---
+
+## 📫 Contact Me
+
+- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
+- 💬 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: your.email@example.com
+
+---
+
+⭐️ _If you like my work, feel free to star my repositories!_
